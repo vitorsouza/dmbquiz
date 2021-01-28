@@ -4,25 +4,27 @@
   "description": "Teste os seus conhecimentos sobre a melhor banda do planeta (segundo o criador deste quiz).",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flickr_-_moses_namkung_-_Dave_Matthews_5.jpg",
+      "title": "Em que país a banda foi formada?",
+      "description": "Essa é pra aquecer...",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Austrália",
+        "Canadá",
+        "Estados Unidos",
+        "Inglaterra"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Carter_Beauford_2008.jpg",
+      "title": "Em que cidade dos EUA a banda foi formada?",
+      "description": "Agora quero ver!",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Charlottesville, Virgínia",
+         "Los Angeles, Califórnia",
+         "Nova Iorque",
+         "Seattle, Washington"
       ]
     }
   ],
